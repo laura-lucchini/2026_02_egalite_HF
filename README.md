@@ -3,9 +3,13 @@ Chaque année, les entreprises et les unités économiques et sociales (UES) d�
 À partir des données publiques disponibles sur data.gouv, il est possible d’analyser concrètement :
 
  📌 si les entreprises respectent bien leur obligation de déclaration
+ 
  📌 quels leviers peuvent être activés pour améliorer l’indice global
+ 
  📌 quelles catégories d’index doivent être prioritairement améliorées
+ 
  📌 les pays où les indices d’égalité sont les meilleurs
+ 
  📌 les secteurs les plus performants en matière d’égalité professionnelle
 
 👉 J’ai réalisé un exemple de rapport Power BI à partir de ces données.
