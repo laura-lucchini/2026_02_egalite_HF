@@ -1,4 +1,4 @@
-Chaque année, les entreprises et les unités économiques et sociales (UES) d’au moins 50 salariés doivent calculer et publier leur index d’égalité professionnelle femmes-hommes.
+Chaque année, les entreprises et les unités économiques et sociales (UES) d’au moins 50 salariés doivent calculer et publier leur __index d’égalité professionnelle femmes-hommes.__
 
 À partir des données publiques disponibles sur data.gouv, il est possible d’analyser concrètement :
 
@@ -14,10 +14,12 @@ Chaque année, les entreprises et les unités économiques et sociales (UES) d�
 
 👉 J’ai réalisé un exemple de rapport Power BI à partir de ces données.
 
-Ce projet m’a permis de renforcer plusieurs compétences clés en data :
+__Ce projet m’a permis de renforcer plusieurs compétences clés en data :__
  
  🚀 mise en place d’une chaîne de traitement dans le cloud (stockage, base de données, requêtes BigQuery)
+ 
  🚀 modélisation de données avec SQL et dbt (tables de faits et de dimensions)
+ 
  🚀 conception de rapports Power BI et création de mesures avancées, notamment avec RANKX(), afin de calculer dynamiquement le classement des pays, secteurs ou entreprises selon différents indicateurs.
 
 🔎 Le principal bémol :
